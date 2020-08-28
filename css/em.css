@@ -129,6 +129,9 @@ h2{
   margin-bottom: 1.5rem;
   border-radius: 2rem;
 }
+.anuncio img{
+  border-radius: 2rem;
+}
 .contenedor-anuncio{
   padding: 2rem;
 }
