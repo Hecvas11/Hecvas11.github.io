@@ -113,6 +113,9 @@ h2{
   margin-bottom: auto;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+img{
+  border-radius: 2rem;
+}
 
 /* anuncios */
 
@@ -127,9 +130,6 @@ h2{
   border-width: 1px;
   background-color: #F5F5F5;
   margin-bottom: 1.5rem;
-  border-radius: 2rem;
-}
-.anuncio img{
   border-radius: 2rem;
 }
 .contenedor-anuncio{
